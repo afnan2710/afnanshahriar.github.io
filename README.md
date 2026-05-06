@@ -2,23 +2,6 @@
 
 A modern, responsive portfolio website showcasing my academic background, professional experience, projects and technical skills.
 
-## 📁 Project Structure
-
-portfolio/
-├── index.html
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── js/
-│ │ └── main.js
-│ └── images/
-│ ├── formal.png
-│ ├── formal_square.png
-│ └── portfolio_favicon.png
-├── files/
-│ └── afnan_shahriar_cv_updated.pdf
-└── README.md
-
 ## ✨ Features
 
 - **Responsive Design** - Fully responsive layout that works on all devices
